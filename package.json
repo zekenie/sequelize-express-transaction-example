@@ -1,0 +1,17 @@
+{
+  "name": "sequelize-transaction-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cls-hooked": "^4.2.2",
+    "express": "^4.16.2",
+    "pg": "^7.4.0",
+    "sequelize": "^4.22.6"
+  }
+}
